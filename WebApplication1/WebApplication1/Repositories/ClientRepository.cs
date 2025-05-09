@@ -1,6 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
 using TravelAgency.Models.DTOs;
-// Na początku każdego pliku
 using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
 using System.Threading.Tasks;

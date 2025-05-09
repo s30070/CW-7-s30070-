@@ -1,6 +1,4 @@
-﻿
-// Na początku każdego pliku
-using Microsoft.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 namespace TravelAgency.Models.Entities
